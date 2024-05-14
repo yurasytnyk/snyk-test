@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "adm-zip": "0.2.1",
+    "adm-zip": "0.5.12",
     "froala-editor": "3.0.0",
     "lodash": "4.4.0"
   }
